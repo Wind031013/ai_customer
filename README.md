@@ -153,9 +153,9 @@ python main.py
 ### 示例对话
 
 <p align="center">
-  <img src="./assets/images/测试1.png" alt="示例对话1" width="200"/>
-  <img src="./assets/images/测试2.png" alt="示例对话2" width="200"/>
-  <img src="./assets/images/测试3.png" alt="示例对话3" width="200"/>
+  <img src="./assets/images/测试1.png" alt="示例对话1" height="200"/>
+  <img src="./assets/images/测试2.png" alt="示例对话2" height="200"/>
+  <img src="./assets/images/测试3.png" alt="示例对话3" height="200"/>
 </p>
 
 ## 🧠 工作原理
